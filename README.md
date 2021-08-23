@@ -15,6 +15,8 @@ In this project, I have proposed and compared many variations of fuzzers and GA 
 * Random fuzzer with gumbel distribution + ISSM similarity index
 ## GA algorithms include:
 * GA algorithm with simple random function
+* GA algorithm with gumbel random function
+* GA algorithm with simple random function and with SSIM similarity index considerd
 * GA algorithm with gumbel random function and with SSIM similarity index considerd
 ## Approach
 All proposed algorithms are tested on MNIST and CIFAR10 dataset with two ANN, and CNN trained models.
